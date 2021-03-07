@@ -1,0 +1,14 @@
+{
+  "name": "natour",
+  "version": "1.0.0",
+  "description": "practice site",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass":"node-sass sass/main.scss css/style.css -w"
+  },
+  "author": "jaffar",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
